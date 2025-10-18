@@ -9,7 +9,6 @@
 
 - ⚡ Fun fact **I love cooking,dancing and journaling**
 
-<h3 align="left">Connect with me: https://www.linkedin.com/in/meenakshi-pandey-82036a2aa/ </h3>
 <p align="left">
 </p>
 
