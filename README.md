@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Meenakshi</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on [Workshpere](https://github.com/meenakship0805/WorkSphere)
+- 🔭 I’m currently working on [Pad-Aid Analytics](https://github.com/meenakship0805/PadAid-Analytics)
 
 - 🌱 I’m currently learning **Python Libraries,Machine learning**
 
