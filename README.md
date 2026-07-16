@@ -28,18 +28,18 @@
 **[Attendance Monitoring System](https://attendancemonitoringsystem.streamlit.app/)** — an attendance tracker deployed live on Streamlit Community Cloud. `Python` `Streamlit`
 
 ### 🛠️ Languages & Tools
-<img src="https://cdn.simpleicons.org/python" height="45"/> &nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/javascript" height="45"/> &nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/html5" height="45"/> &nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/css3" height="45"/> &nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/scikitlearn" height="45"/> &nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/pandas" height="45"/> &nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/numpy" height="45"/> &nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/mysql" height="45"/> &nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/git" height="45"/> &nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/github" height="45"/> &nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" height="45"/> &nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/streamlit" height="45"/> &nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/python" height="45"/>   
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="45"/>   
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="45"/>   
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="45"/>   
+<img src="https://cdn.simpleicons.org/scikitlearn" height="45"/>   
+<img src="https://cdn.simpleicons.org/pandas" height="45"/>   
+<img src="https://cdn.simpleicons.org/numpy" height="45"/>   
+<img src="https://cdn.simpleicons.org/mysql" height="45"/>   
+<img src="https://cdn.simpleicons.org/git" height="45"/>   
+<img src="https://cdn.simpleicons.org/github" height="45"/>   
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" height="45"/>   
+<img src="https://cdn.simpleicons.org/streamlit" height="45"/>   
 <img src="https://cdn.simpleicons.org/fastapi" height="45"/>
 
 ### 🧠 AI/ML Concepts
