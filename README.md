@@ -27,16 +27,16 @@
 **Attendance Monitoring System** — an attendance tracker deployed live on Streamlit Community Cloud. `Python` `Streamlit`
 
 ### ⌗ languages & tools
-![Python](https://img.shields.io/badge/-Python-CDB4DB?style=flat-square&logo=python&logoColor=white) &nbsp;
-![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-A2D2FF?style=flat-square&logo=scikitlearn&logoColor=black) &nbsp;
-![Pandas](https://img.shields.io/badge/-Pandas-FFAFCC?style=flat-square&logo=pandas&logoColor=white) &nbsp;
-![NumPy](https://img.shields.io/badge/-NumPy-B983FF?style=flat-square&logo=numpy&logoColor=white) &nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-CDB4DB?style=flat-square&logo=mysql&logoColor=white) &nbsp;
-![Git](https://img.shields.io/badge/-Git-A2D2FF?style=flat-square&logo=git&logoColor=black) &nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-FFAFCC?style=flat-square&logo=github&logoColor=white) &nbsp;
-![VS Code](https://img.shields.io/badge/-VS%20Code-B983FF?style=flat-square&logo=visualstudiocode&logoColor=white) &nbsp;
-![Streamlit](https://img.shields.io/badge/-Streamlit-CDB4DB?style=flat-square&logo=streamlit&logoColor=white) &nbsp;
-![FastAPI](https://img.shields.io/badge/-FastAPI-A2D2FF?style=flat-square&logo=fastapi&logoColor=black)
+<img src="https://skillicons.dev/icons?i=py" height="45"/> &nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=sklearn" height="45"/> &nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=pandas" height="45"/> &nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=numpy" height="45"/> &nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=mysql" height="45"/> &nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=git" height="45"/> &nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=github" height="45"/> &nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=vscode" height="45"/> &nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=streamlit" height="45"/> &nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=fastapi" height="45"/>
 
 ### ⌗ ai/ml concepts
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-CDB4DB?style=flat-square&logoColor=white)
