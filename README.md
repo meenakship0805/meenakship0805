@@ -12,8 +12,8 @@
 - 🌸 Also cooking up an **AI Support Ticket Triage & Resolution Copilot**
 - 🎧 When I'm not coding: cooking, dancing, journaling — in no particular order
 
-### 𐐪𖤣𖥧𐐪 say hi
-[![LinkedIn](https://img.shields.io/badge/-linkedin-CDB4DB?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE/)
+### say hi
+[![LinkedIn](https://img.shields.io/badge/-linkedin-CDB4DB?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/meenakshi-pandey-82036a2aa/)
 [![GitHub](https://img.shields.io/badge/-github-A2D2FF?style=flat-square&logo=github&logoColor=white)](https://github.com/meenakship0805)
 [![Gmail](https://img.shields.io/badge/-email-FFAFCC?style=flat-square&logo=gmail&logoColor=white)](mailto:meenakship0805@gmail.com)
 
