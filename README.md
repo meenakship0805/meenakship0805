@@ -16,7 +16,7 @@
 - 🌸 Also cooking up an **AI Support Ticket Triage & Resolution Copilot**
 - 🎧 When I'm not coding: cooking, dancing, journaling — in no particular order
 
-### 𐐪𖤣𖥧𐐪 say hi
+### say hi
 [![LinkedIn](https://img.shields.io/badge/-linkedin-CDB4DB?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/meenakshi-pandey-82036a2aa/)
 [![GitHub](https://img.shields.io/badge/-github-A2D2FF?style=flat-square&logo=github&logoColor=white)](https://github.com/meenakship0805)
 [![Gmail](https://img.shields.io/badge/-email-FFAFCC?style=flat-square&logo=gmail&logoColor=white)](mailto:meenakship0805@gmail.com)
@@ -27,16 +27,16 @@
 **Attendance Monitoring System** — an attendance tracker deployed live on Streamlit Community Cloud. `Python` `Streamlit`
 
 ### ⌗ languages & tools
-<img src="https://skillicons.dev/icons?i=py" height="45"/> &nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=sklearn" height="45"/> &nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=pandas" height="45"/> &nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=numpy" height="45"/> &nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=mysql" height="45"/> &nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=git" height="45"/> &nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=github" height="45"/> &nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=vscode" height="45"/> &nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=streamlit" height="45"/> &nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=fastapi" height="45"/>
+<img src="https://cdn.simpleicons.org/python" height="45"/>   
+<img src="https://cdn.simpleicons.org/scikitlearn" height="45"/>   
+<img src="https://cdn.simpleicons.org/pandas" height="45"/>   
+<img src="https://cdn.simpleicons.org/numpy" height="45"/>   
+<img src="https://cdn.simpleicons.org/mysql" height="45"/>   
+<img src="https://cdn.simpleicons.org/git" height="45"/>   
+<img src="https://cdn.simpleicons.org/github" height="45"/>   
+<img src="https://cdn.simpleicons.org/visualstudiocode" height="45"/>   
+<img src="https://cdn.simpleicons.org/streamlit" height="45"/>   
+<img src="https://cdn.simpleicons.org/fastapi" height="45"/>
 
 ### ⌗ ai/ml concepts
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-CDB4DB?style=flat-square&logoColor=white)
