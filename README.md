@@ -1,5 +1,8 @@
-<h1 align="center">Hi, I'm Meenakshi 👋</h1>
-<h3 align="center">Final-Year CSE (AI/ML) Student | AI Engineer | GenAI Enthusiast</h3>
+[![](https://capsule-render.vercel.app/api?type=waving&height=200&color=0:FF6B9C,50:FFD93D,100:4D96FF&text=Hi,%20I'm%20Meenakshi%20%F0%9F%91%8B&fontSize=36&fontColor=ffffff&fontAlign=35&desc=CS%20Undergrad%20%7C%20AI%2FML%20Engineer%20%7C%20GenAI%20Enthusiast&descAlign=55&descSize=18&animation=fadeIn)](https://github.com/meenakship0805)
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=FF6B9C&center=true&vCenter=true&width=600&lines=BTech+CSE+(AI+%26+ML)+Student;LLM+Deployment+Intern+%40+Prodigal+AI;Building+AnalystOS+%26+AI+Support+Copilot;Fun+fact%3A+I+love+cooking%2C+dancing+%26+journaling" alt="Typing SVG" />
+</p>
 
 ### 👩‍💻 About Me
 - 🎓 B.Tech CSE (AI & ML) student at K.R. Mangalam University — CGPA 8.5
