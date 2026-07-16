@@ -1,8 +1,12 @@
 [![](https://capsule-render.vercel.app/api?type=soft&height=180&color=0:FFAFCC,50:CDB4DB,100:A2D2FF&text=heyy,%20i'm%20meenakshi%20%E2%9C%A8&fontSize=34&fontColor=333333&fontAlign=35&desc=just%20a%20girlie%20living%20in%20a%20digital%20world%20%F0%9F%92%BB%F0%9F%8C%B8&descAlign=55&descSize=16&animation=twinkling)](https://github.com/meenakship0805)
 
+<br/>
+
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=500&pause=1200&color=B983FF&center=true&vCenter=true&width=600&lines=BTech+CSE+(AI+%26+ML)+%E2%80%94+final+year%2C+finally%21;LLM+Deployment+Intern+%40+Prodigal+AI;building+AnalystOS+%2B+an+AI+support+copilot;coffee%2C+code%2C+repeat+%E2%98%95%F0%9F%92%BB;cooking%2C+dancing%2C+journaling+%3C3" alt="Typing SVG" />
 </p>
+
+<br/>
 
 ### ⋆｡˚ about me ˚｡⋆
 - 🎓 B.Tech CSE (AI & ML) at K.R. Mangalam University — CGPA 8.5, class of 2027
@@ -12,7 +16,7 @@
 - 🌸 Also cooking up an **AI Support Ticket Triage & Resolution Copilot**
 - 🎧 When I'm not coding: cooking, dancing, journaling — in no particular order
 
-### say hi
+### 𐐪𖤣𖥧𐐪 say hi
 [![LinkedIn](https://img.shields.io/badge/-linkedin-CDB4DB?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/meenakshi-pandey-82036a2aa/)
 [![GitHub](https://img.shields.io/badge/-github-A2D2FF?style=flat-square&logo=github&logoColor=white)](https://github.com/meenakship0805)
 [![Gmail](https://img.shields.io/badge/-email-FFAFCC?style=flat-square&logo=gmail&logoColor=white)](mailto:meenakship0805@gmail.com)
@@ -23,7 +27,16 @@
 **Attendance Monitoring System** — an attendance tracker deployed live on Streamlit Community Cloud. `Python` `Streamlit`
 
 ### ⌗ languages & tools
-![Skills](https://skillicons.dev/icons?i=py,sklearn,pandas,numpy,mysql,git,github,vscode,streamlit,fastapi&theme=dark)
+![Python](https://img.shields.io/badge/-Python-CDB4DB?style=flat-square&logo=python&logoColor=white) &nbsp;
+![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-A2D2FF?style=flat-square&logo=scikitlearn&logoColor=black) &nbsp;
+![Pandas](https://img.shields.io/badge/-Pandas-FFAFCC?style=flat-square&logo=pandas&logoColor=white) &nbsp;
+![NumPy](https://img.shields.io/badge/-NumPy-B983FF?style=flat-square&logo=numpy&logoColor=white) &nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-CDB4DB?style=flat-square&logo=mysql&logoColor=white) &nbsp;
+![Git](https://img.shields.io/badge/-Git-A2D2FF?style=flat-square&logo=git&logoColor=black) &nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-FFAFCC?style=flat-square&logo=github&logoColor=white) &nbsp;
+![VS Code](https://img.shields.io/badge/-VS%20Code-B983FF?style=flat-square&logo=visualstudiocode&logoColor=white) &nbsp;
+![Streamlit](https://img.shields.io/badge/-Streamlit-CDB4DB?style=flat-square&logo=streamlit&logoColor=white) &nbsp;
+![FastAPI](https://img.shields.io/badge/-FastAPI-A2D2FF?style=flat-square&logo=fastapi&logoColor=black)
 
 ### ⌗ ai/ml concepts
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-CDB4DB?style=flat-square&logoColor=white)
