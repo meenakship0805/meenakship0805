@@ -24,7 +24,7 @@
 ### ‧₊˚ ✩ featured builds
 **[PadAid Analytics Platform](https://github.com/meenakship0805/PadAid-Analytics)** — a social-impact project on sanitary pad accessibility, built on 100 survey responses I collected myself. Full EDA, KMeans clustering (k=3) for user personas, PCA visualization, and a multi-page Streamlit dashboard. `Python` `Pandas` `Scikit-learn` `Streamlit`
 
-**Attendance Monitoring System** — an attendance tracker deployed live on Streamlit Community Cloud. `Python` `Streamlit`
+**[Attendance Monitoring System](https://attendancemonitoringsystem.streamlit.app/)** — an attendance tracker deployed live on Streamlit Community Cloud. `Python` `Streamlit`
 
 ### ⌗ languages & tools
 <img src="https://cdn.simpleicons.org/python" height="45"/>   
