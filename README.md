@@ -34,7 +34,7 @@
 <img src="https://cdn.simpleicons.org/mysql" height="45"/>   
 <img src="https://cdn.simpleicons.org/git" height="45"/>   
 <img src="https://cdn.simpleicons.org/github" height="45"/>   
-<img src="https://cdn.simpleicons.org/visualstudiocode" height="45"/>   
+<img src="https://cdn.simpleicons.org/visualstudiocode" height="45"/>  
 <img src="https://cdn.simpleicons.org/streamlit" height="45"/>   
 <img src="https://cdn.simpleicons.org/fastapi" height="45"/>
 
