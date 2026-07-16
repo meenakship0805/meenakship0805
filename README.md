@@ -20,11 +20,12 @@
 [![LinkedIn](https://img.shields.io/badge/-linkedin-CDB4DB?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/meenakshi-pandey-82036a2aa/)
 [![GitHub](https://img.shields.io/badge/-github-A2D2FF?style=flat-square&logo=github&logoColor=white)](https://github.com/meenakship0805)
 [![Gmail](https://img.shields.io/badge/-email-FFAFCC?style=flat-square&logo=gmail&logoColor=white)](mailto:meenakship0805@gmail.com)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-A2D2FF?style=flat-square&logo=LeetCode&logoColor=white%20for%20leetcode)](https://leetcode.com/u/meenakshi0805/)
 
 ### 🚀 Featured Projects
 **[PadAid Analytics Platform](https://github.com/meenakship0805/PadAid-Analytics)** — a social-impact project on sanitary pad accessibility, built on 100 survey responses I collected myself. Full EDA, KMeans clustering (k=3) for user personas, PCA visualization, and a multi-page Streamlit dashboard. `Python` `Pandas` `Scikit-learn` `Streamlit`
 
-**Attendance Monitoring System** — an attendance tracker deployed live on Streamlit Community Cloud. `Python` `Streamlit`
+**[Attendance Monitoring System](https://attendancemonitoringsystem.streamlit.app/)** — an attendance tracker deployed live on Streamlit Community Cloud. `Python` `Streamlit`
 
 ### 🛠️ Languages & Tools
 <img src="https://cdn.simpleicons.org/python" height="45"/> &nbsp;&nbsp;
