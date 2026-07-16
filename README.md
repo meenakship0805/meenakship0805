@@ -1,4 +1,4 @@
-[![](https://capsule-render.vercel.app/api?type=soft&height=220&color=0:FFAFCC,50:CDB4DB,100:A2D2FF&text=Hi,%20I'm%20Meenakshi&fontSize=34&fontColor=333333&fontAlign=35&fontAlignY=32&desc=AI%2FML%20Engineer%20%7C%20GenAI%20Enthusiast&descAlign=55&descAlignY=62&descSize=16&animation=twinkling)](https://github.com/meenakship0805)
+[![](https://capsule-render.vercel.app/api?type=soft&height=220&color=0:FFAFCC,50:CDB4DB,100:A2D2FF&text=heyy,%20i'm%20meenakshi%20%E2%9C%A8&fontSize=34&fontColor=333333&fontAlign=35&fontAlignY=32&desc=just%20a%20girlie%20living%20in%20a%20digital%20world%20%F0%9F%92%BB%F0%9F%8C%B8&descAlign=55&descAlignY=62&descSize=16&animation=twinkling)](https://github.com/meenakship0805)
 
 <br/>
 
