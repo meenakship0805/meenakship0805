@@ -59,6 +59,13 @@
 ![MySQL](https://img.shields.io/badge/MySQL-A2D2FF?style=flat-square&logo=mysql&logoColor=black)
 ![Excel](https://img.shields.io/badge/MS%20Excel-CDB4DB?style=flat-square&logo=microsoftexcel&logoColor=white)
 
+### 🎓 Certifications
+![LLM Based Model Deployment](https://img.shields.io/badge/LLM%20Based%20Model%20Deployment-CDB4DB?style=flat-square&logoColor=white)
+![Mastering Machine Learning](https://img.shields.io/badge/Mastering%20Machine%20Learning-FFAFCC?style=flat-square&logoColor=white)
+![Data Analysis with Python (IBM)](https://img.shields.io/badge/Data%20Analysis%20with%20Python%20%28IBM%29-A2D2FF?style=flat-square&logoColor=black)
+![Deep Learning Practical (Samatrix)](https://img.shields.io/badge/Deep%20Learning%20Practical%20%28Samatrix%29-B983FF?style=flat-square&logoColor=white)
+![Neural Networks (Samatrix)](https://img.shields.io/badge/Neural%20Networks%20(Samatrix)-FFC8DD?style=flat-square&logoColor=black)
+
 ### 📈 GitHub Stats
 ![](https://streak-stats.demolab.com/?user=meenakship0805&hide_border=true&background=ffffff&ring=CDB4DB&fire=FFAFCC&currStreakLabel=B983FF&sideLabels=333333&currStreakNum=333333&sideNums=333333&dates=999999)
 
